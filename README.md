@@ -28,7 +28,7 @@
 ---
 
 ### 3. ✅ Saved Settings Confirmation  
-![API Key Saved](./screenshots/Screenshot%202025-08-01%20010318.png)
+![API Key Saved](./screenshots/Screenshot%202025-08-01%20011204.png)
 
 ---
 
