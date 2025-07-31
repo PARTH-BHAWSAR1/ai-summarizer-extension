@@ -23,7 +23,7 @@
 ---
 
 ### 2. 🔑 Generated API Key (blurred)  
-![Generated API Key](./screenshots/Screenshot%202025-08-01%20010253.png)
+![Generated API Key](./screenshots/Screenshot 2025-08-01 010938.png)
 
 ---
 
